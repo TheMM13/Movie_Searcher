@@ -1,12 +1,14 @@
-# React + Vite
+Movie Searcher
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+About:
+Movie Searcher is a web-based application that allows users to search for movies and view basic details such as title and poster. The app fetches data from an external movie API and displays results dynamically using JavaScript.
 
-Currently, two official plugins are available:
+Live Website : https://movie-at9la625t-manishas-projects-50464571.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack  
+HTML, CSS, JavaScript, React JS, OMDb API
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Features  
+Movie search using API  
+Dynamic result rendering  
+Responsive design
